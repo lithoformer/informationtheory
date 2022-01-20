@@ -13,6 +13,7 @@ list=["capsule";
 "podcast"];
 
 asciilists(list);
+
 podcast
 capsule
     97
