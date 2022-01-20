@@ -9,7 +9,6 @@ list=["capsule";
 "dynamic";
 "publish";
 "private";
-"discogs";
 "podcast"];
 
 asciilists(list);
