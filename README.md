@@ -5,7 +5,7 @@ asciilists - from a list of strings of the same length, return the two strings t
 
 list=["capsule";
 "digital";
-"spotify";
+"perfect";
 "dynamic";
 "publish";
 "private";
