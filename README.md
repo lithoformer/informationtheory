@@ -1,7 +1,7 @@
 # informationtheory
 assorted information theory scripts
 
-asciilists - from a list of strings of the same length, return the two strings who have the largest and smallest absolute ascii distance
+asciilists - from a list of strings of the same length, return the two strings that have the largest and smallest absolute ascii distances
 
 list=["capsule";
 "digital";
