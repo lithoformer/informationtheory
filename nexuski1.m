@@ -1,4 +1,4 @@
-function x = nexuski0(input0)
+function x = nexuski1(input0)
 
 if nargin ~= 1
 
