@@ -22,8 +22,8 @@ end
 
 rng('shuffle');
 
-a = 32;
-b = 127;
+a = 33;
+b = 126;
 
 string0 = (b-a).*rand(input0,1) + a;
 string1 = (b-a).*rand(input0,1) + a;
