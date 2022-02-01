@@ -22,8 +22,8 @@ end
 
 rng('shuffle');
 
-a = 32;
-b = 127;
+a = 33;
+b = 126;
 
 test1 = (b-a).*rand(input0,1)' + a;
 test2 = (b-a).*rand(input0,1)' + a;
