@@ -18,8 +18,8 @@ length0 = size0(2);
 
 rng('shuffle');
 
-a = 32;
-b = 127;
+a = 33;
+b = 126;
 
 string0 = (b-a).*rand(length0,1) + a;
 
