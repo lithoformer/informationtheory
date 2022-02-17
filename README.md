@@ -20,3 +20,8 @@ capsule
 private
 publish
     32
+
+
+more about information theory:
+
+https://en.wikipedia.org/wiki/Information_theory
