@@ -22,6 +22,6 @@ publish
     32
 
 
-more about information theory:
+reference:
 
 https://en.wikipedia.org/wiki/Information_theory
